@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">View in Lapland</string>
+    <string name="hyperlink">More information about lapland: <a href="https://www.lapland.fi">lapland.fi</a></string>
+</resources>
